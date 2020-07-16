@@ -69,6 +69,6 @@ switch (edad40) {
     console.log(`Elección incorrecta`);
 }
 
-BbtotalPagar = plan + bebeAlcohol + usaLentes + padeceEnfermedad + edad40;
+totalPagar = plan + bebeAlcohol + usaLentes + padeceEnfermedad + edad40;
 
 console.log(`El total a pagar por el ${planSeleccionado} es $${totalPagar}`);
